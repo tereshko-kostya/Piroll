@@ -1,0 +1,57 @@
+.project-presentation-field{
+	width: 100%;
+	height: 670px;
+}
+.presentation{
+	width: 100%;
+	height: 570px;
+	float:left;
+}
+.project-info,.project-photo{
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+.project-info{
+	background: #f6f6f6;
+	position: relative;
+}
+.info-position{
+	position: absolute;
+	width: 435px;
+	margin-top: 105px;
+	margin-left: 97px;
+}
+.text{
+	font-size: 16px;
+	color: #787878;
+	padding-top: 30px;
+}
+.client-info{
+}
+
+
+.project-photo{
+	background: #e6e6e6;
+}
+
+
+/**/
+.project-switcher-field{
+	width: 100%;
+	position: relative;
+}
+.previouse-button p,.next-button p{	
+	color: #171717;
+	text-decoration: none;
+	font-size: 12px;
+	margin-top: 25px;
+}
+.previouse-button{	
+	float: left;
+	margin-left: 97px;
+}
+.next-button{
+	float: right;
+	margin-right: 97px;
+}

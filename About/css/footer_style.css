@@ -1,0 +1,49 @@
+/* 4. footer-field*/
+.footer-field{
+	width: auto;	
+	height: 285px;
+}
+
+footer{
+	width: 100%;
+	height: 100%;
+	background: #141414;
+}
+
+.content{
+	position: absolute;
+	margin-top: 98px;  
+	width: 100%
+	height: inherit;
+}
+
+.cnt1,.cnt2,.cnt3,.cnt4,.cnt5{
+	float: left;	
+	width: 115px;
+	color: rgb(188, 188, 188);
+	font-size: 15px;
+}
+.cnt1{
+	width: 270px;
+	margin-left: 98px; 
+}
+.cnt1 h5{
+	color:#fff;
+	padding-bottom: 15px;
+}
+.cnt2{
+	margin-left: 145px; 
+}
+.cnt3{
+	margin-left: 165px; 
+}
+
+.cnt3 a,.cnt4 a,.cnt5 a{
+	color: rgb(188, 188, 188);
+}
+.cnt4{
+	margin-left: 10px;
+}
+.cnt5{
+	margin-left: 125px;
+}

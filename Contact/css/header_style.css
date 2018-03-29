@@ -1,0 +1,62 @@
+.main{
+	width: 100%;
+}
+.head,.text,.footer{
+	width: auto;
+}
+
+
+
+/* 1. header field*/
+.head-field{
+	width: auto;
+	height: 100px;
+}
+
+header{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+
+.logo,.menu{	
+	margin-top: 37px;  
+	height: inherit;
+}
+
+.logo{
+	margin-left: 98px;
+  	float: left;
+  	width: 100px;
+}
+
+.menu{
+	margin-right: 68px; 
+	float: right;
+	width: 225px;	
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+	overflow: hidden;
+}
+
+.menu ul li{
+	margin-left:30px; 
+	float: left;
+	font-size: 12px
+}
+
+.menu ul li a{
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
+
+ul li a:hover{
+	color: #20cdc7;
+	text-decoration: none;
+}

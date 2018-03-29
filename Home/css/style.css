@@ -1,0 +1,50 @@
+
+
+
+/* 2. text field*/
+.text-field{
+	height: 310px;
+	background: #f6f6f6;
+	position: relative;
+}
+
+.text-position{
+	width: 510px;
+	height: 115px;
+	margin-top: 100px; 
+	margin-left: 420px; 
+	position: absolute;
+	text-align: center;
+}
+.text-position p{
+	font-size: 18px;
+}
+
+
+/* 3. work field*/
+.work-field{
+	height: 900px;
+}
+
+.your-img-gray,.your-img-lightgray,.your-link,.glaz{
+	width: 337.2px;
+	height: 300px;
+	float: left;
+}
+.your-img-gray{
+	background: #838383;
+}
+.your-img-lightgray{
+	background: #dddddd;
+}
+.your-link{
+	background: #21bfb9;
+}
+.glaz-position{
+	margin-left: 140px;
+	margin-top: 133px;
+	position: relative;
+}
+
+
+
